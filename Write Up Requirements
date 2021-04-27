@@ -1,0 +1,9 @@
+A possible outline may follow a standard hard sciences academic paper.  Consider sections such as:
+
+Introduction: the why of the question: what’s the real-world impact? Why do you yourself care?  (maybe half a page)
+Data: what is the source of your data. Describe any and all columns/features in the data set, and where the read could find the data if possible.
+Real-world impact: a miniature literature review or context for the problem. Is this a problem solved by real world companies?  Are there any easily accessible academic papers. 
+Exploratory results: you may include any work you did for the preliminary check-in here, but make sure you’ve adjusted the write-up to fit into the overall content of the paper.
+Methods: what data science technique are you using? Why should this model give you results that are useful to the why of the queston? If there are any ad hoc choices in the algorithms, what are you choosing for them?  If there is a probability model (like in BigCLAM or GMMs), write it out.  This is the place to include any equations that define your model.
+Results: what came out of your methods? This is where you can show off your pretty pictures.  As in the presentation, if you have a lot of days/times/locations/people/etc., pick one or two to show plots or a table of. 
+Conclusion: The conclusion could be an explanation of “work still to do” or “unanswered questions” or even “why the 4022 technique was worse than doing a neural net or linear model”. Make sure you circle back to the why of the data science problem.  Did you successfully answer anything with interesting results?
